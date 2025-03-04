@@ -3,11 +3,6 @@
  */
 
 package com.mycompany.mavenproject1;
-
-/**
- *
- * @author PC
- */
 public class Mavenproject1 {
     public class Student {
     private String studentId;
